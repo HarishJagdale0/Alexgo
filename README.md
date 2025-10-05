@@ -4,7 +4,7 @@
 ### 🚀 Empowering Students & Professionals with Personalized AI Career Guidance
 
 Smart Career Mentor is an **AI-integrated full-stack web application** that analyzes your **resume**, identifies your **skills**, recommends **job roles**, and suggests **learning resources** to accelerate your career path.  
-Built using **React, Node.js, MongoDB**, and **OpenAI NLP models**, it delivers a personalized experience similar to having your own AI career advisor.
+Built using **React, Node.js, MongoDB**, and **OpenAI NLP models**, it delivers a personalized experience similar to having your own AI career advisor. xbfsbs vs bds v
 
 ---
 
