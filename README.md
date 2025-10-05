@@ -58,8 +58,7 @@ F --> G[Admin Analytics Dashboard]
 
 
 smart-career-mentor/
-│
-├── client/                 # React Frontend
+├── client
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
@@ -135,5 +134,4 @@ JWT_SECRET=your_secret_key
 
 
 ---
-
-Would you like me to also create a **custom project logo + banner image (for top of README)** to make it visually stand out like a professional open-source repo?
+ YOU LIKED THIS REPO TO STAR THIS REPOSITORY!
